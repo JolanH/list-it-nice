@@ -1,0 +1,11 @@
+{
+  "name": "List it Nice",
+  "description": "An elegant and minimalist shopping list application with support for swipe-to-delete, list duplication, and QR-based device sharing.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
