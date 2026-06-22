@@ -1,0 +1,19 @@
+{
+  "name": "List it Nice",
+  "short_name": "ListItNice",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#18181b",
+  "theme_color": "#9333ea",
+  "description": "An elegant and minimalist shopping list application.",
+  "orientation": "portrait-primary",
+  "categories": ["utilities", "productivity"],
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3514/3514491.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

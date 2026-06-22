@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.ListItNice" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorPrimaryContainer">@color/purple_200</item>
+        <item name="colorOnPrimaryContainer">@color/purple_700</item>
+        
+        <!-- Background and surface colors -->
+        <item name="android:statusBarColor">@color/zinc_900</item>
+        <item name="android:navigationBarColor">@color/zinc_900</item>
+    </style>
+</resources>
